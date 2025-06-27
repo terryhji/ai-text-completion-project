@@ -3,7 +3,7 @@
 from google import genai
 from google.genai import types
 
-client = genai.Client(api_key="AIzaSyCwmX8wbkyY0vMYWYr7FGOeNlfKxNsQxSA")
+client = genai.Client(api_key="")
 
 cfg = None
 
